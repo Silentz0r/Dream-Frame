@@ -585,9 +585,9 @@ a.anchor-3Z-8Bb.pc-anchor.anchorUnderlineOnHover-2ESHQB.pc-anchorUnderlineOnHove
 }
 /* Emojis */
 .emoji.jumboable {
-    width: 2rem;
-    height: 2rem;
-    min-height: 2rem;
+    width: 3rem;
+    height: 3rem;
+    min-height: 3rem;
 }
 .categories-1feg4n.pc-categories {
     border-radius: var(--br);
